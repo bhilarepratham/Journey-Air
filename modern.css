@@ -6880,7 +6880,7 @@ body {
 
 .ar-controls {
   position: absolute !important;
-  top: 64px !important;
+  top: 114px !important;
   right: 14px !important;
   display: flex !important;
   gap: 8px !important;
@@ -6912,7 +6912,7 @@ body {
   position: absolute !important;
   left: 14px !important;
   right: 14px !important;
-  top: 118px !important;
+  top: 164px !important;
   height: 220px !important;
   border-radius: 18px !important;
   overflow: hidden !important;
